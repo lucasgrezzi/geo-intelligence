@@ -1,0 +1,6 @@
+estab_id,nome,categoria,qtd_concorrentes_1km,volume_faturamento_vr,faturamento_previsto_modelo,faturamento_perdido,market_share_estimado_porcento
+ESTAB_020,Café Vintage 4,Pizzaria,2,39970.51,49165.18489999999,9194.67489999999,2.07
+ESTAB_033,Bella Pizza 1,Japonês,3,58263.79,66088.33849999991,7824.54849999991,3.01
+ESTAB_026,Sakura Premium 5,Japonês,3,59346.49,66949.44559999992,7602.955599999921,3.07
+ESTAB_046,Bella Pizza 5,Pizzaria,1,41851.88,48600.03090000003,6748.15090000003,2.16
+ESTAB_027,Fornaria Paulista 3,Japonês,1,60115.83,66029.98179999994,5914.151799999934,3.11
