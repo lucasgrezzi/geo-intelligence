@@ -1,4 +1,4 @@
-```markdown
+
 # 🛰️ Inteligência Geográfica de Vendas & Propensão de Faturamento VR
 
 Este projeto desenvolve um pipeline de dados e um modelo preditivo de Machine Learning voltado para o setor de **Benefícios Corporativos (Vale-Refeição)**. O objetivo principal é identificar estabelecimentos credenciados que estão performando abaixo do potencial de sua região, gerando leads qualificados com argumentos consultivos para o time de vendas (*Hunting* e *Cross-selling*).
